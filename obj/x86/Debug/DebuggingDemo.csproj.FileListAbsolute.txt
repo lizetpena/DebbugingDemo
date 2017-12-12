@@ -1,0 +1,10 @@
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\DebuggingDemo\bin\Debug\books\alice in wonderland.txt
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\DebuggingDemo\bin\Debug\books\pride and prejudice.txt
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\DebuggingDemo\bin\Debug\books\sherlock holmes.txt
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\DebuggingDemo\bin\Debug\Customers.xml
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\DebuggingDemo\bin\Debug\DebuggingDemo.exe.config
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\DebuggingDemo\bin\Debug\DebuggingDemo.exe
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\DebuggingDemo\bin\Debug\DebuggingDemo.pdb
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\DebuggingDemo\obj\x86\Debug\DebuggingDemo.csproj.CoreCompileInputs.cache
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\DebuggingDemo\obj\x86\Debug\DebuggingDemo.exe
+C:\Users\lipenade\OneDrive - Microsoft\Documents\2018_01_15_BHGE_VS2017_Debugging\BHGE New Materials\4. Performance Analysis\Demos\DebuggingDemo\obj\x86\Debug\DebuggingDemo.pdb
